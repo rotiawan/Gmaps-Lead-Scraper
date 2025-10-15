@@ -1,5 +1,3 @@
-Tentu, ini dia draf lengkap isi file `README.md` yang keren dan informatif buat repo GitHub kamu. Tinggal *copy-paste* aja\!
-
 -----
 
 # Gmaps Lead Scraper 🗺️
@@ -82,10 +80,4 @@ Hasil scraping akan tersimpan dalam sebuah file **Excel (`.xlsx`)** di direktori
 
 ## ⚠️ Disclaimer
 
-  * Script ini dibuat untuk tujuan edukasi dan membantu otomatisasi pekerjaan profesional.
   * Struktur HTML Google Maps dapat berubah sewaktu-waktu tanpa pemberitahuan, yang mungkin menyebabkan script perlu diperbarui.
-  * Gunakan dengan bijak dan bertanggung jawab. Jangan melakukan permintaan dalam jumlah masif dalam waktu singkat untuk menghormati kebijakan Google.
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT.
